@@ -1,0 +1,5 @@
+{
+  "name": "Llama MCP Data Explorer",
+  "description": "A Model Context Protocol (MCP) client interface connecting Llama 3 via Ollama to a PostgreSQL schema based on business data CSVs.",
+  "requestFramePermissions": []
+}
